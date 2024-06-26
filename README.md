@@ -1,1 +1,1 @@
-1 creo una nuova classe padre Product che avrà due figli (Cat / Dog)
+1 creo una nuova classe padre Product che avrà dei figli prodotti
